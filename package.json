@@ -5,9 +5,10 @@
   "workspaces": [
     "backend"
   ],
-  "scripts": {
-    "start": "npm --prefix backend start",
-    "dev": "npm --prefix backend run dev",
-    "seed": "npm --prefix backend run seed"
-  }
+    "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "seed": "node seed.js",
+    "build": "echo 'No build needed'"
+  },
 }
