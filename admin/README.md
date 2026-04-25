@@ -62,6 +62,10 @@ CHINNA-FSD-PROJECT/
 - Node.js (v18 or higher)
 - MongoDB Atlas account (already configured)
 
+- ### Deployment
+- **Backend URL**: https://fsd-backend-wltp.onrender.com
+- **Frontend**: Deployed separately (update `API_BASE` in `frontend/public/index.html` to point to the backend)
+
 ### Installation
 
 1. Install dependencies:
