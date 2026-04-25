@@ -4,6 +4,7 @@
 
 ### Current Status
 ✅ Server running on: http://localhost:3000
+✅ Deployed backend at: https://fsd-backend-wltp.onrender.com
 ✅ MongoDB connected successfully
 ✅ Database seeded with sample data
 
